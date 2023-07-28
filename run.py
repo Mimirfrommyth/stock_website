@@ -1,3 +1,3 @@
-from api import main
+from myapp import main
 
 app = main.create_app()
